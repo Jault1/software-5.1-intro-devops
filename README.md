@@ -5,7 +5,7 @@ This feature is available since Angular 1.4
 
 Pluralization, localization, and Gender Selection
 
-Pluralization exapmple:
+Pluralization example:
 <ng-pluralize count="numberOfMessages"
               when="{'1': 'You have one new message.',
                      'other': 'You have {} new messages.'}">
